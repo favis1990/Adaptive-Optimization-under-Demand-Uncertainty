@@ -40,7 +40,7 @@ from docplex.mp.model import Model
 import copy
 # index and data
 
-for coef in [1.2, 0.8]:
+for coef in [1.2]:
     ww = 3
     kk = 3
     jj = 6
